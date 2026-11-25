@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Sizzle Station — a tiny cooking game</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  body { margin: 0; background: #14181d; display: flex; flex-direction: column; align-items: center; font-family: system-ui, sans-serif; color: #eee; }
+  canvas { margin-top: 12px; border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,.5); max-width: 96vw; height: auto; }
+  .hint { margin: 12px 0 20px; font-size: 14px; color: #9fb2c3; text-align: center; }
+</style>
+</head>
+<body>
+<canvas id="game" width="960" height="600"></canvas>
+<div class="hint">Keys 1–6 pick ingredients &middot; click the grill to grab a cooked patty &middot; Space serves &middot; R restarts</div>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>
