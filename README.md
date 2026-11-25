@@ -1,4 +1,4 @@
-[![make.fun](https://make.fun/badge/mend-cooking-game-25-nov-2026.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+[![make.fun](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
 [![make.fun rank](https://make.fun/badge/best-cooking-game-20261125-0137/Herman-234/mend-cooking-game-25-nov-2026/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
 [![make.fun reward](https://make.fun/badge/best-cooking-game-20261125-0137/Herman-234/mend-cooking-game-25-nov-2026/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
 
